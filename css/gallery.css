@@ -10,16 +10,15 @@
     grid-template-columns: auto;
     grid-template-rows: auto;
     width: 100vw;
-    padding: 25px; */
-    /*justify-content: space-between;
+    padding: 25px; 
     /* display: flex;
-    justify-content: center;
     flex-direction: row;
-    align-items: center;
-    flex-wrap: wrap; */
-   }
+    justify-content: center; 
+    align-items: center; 
+    flex-wrap: wrap;
+    justify-content: space-between; */
 
-  
+   }
     
   .photos-head {
     font-size: 45px;
