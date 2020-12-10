@@ -145,7 +145,7 @@ li a {
 
 /* Global */
 
-.line-1{
+.typewriter h1{
     position: relative;
     top: 50%;  
     width: 24em;
@@ -155,7 +155,7 @@ li a {
     text-align: center;
     white-space: nowrap;
     overflow: hidden;
-    transform: translateY(-50%);    
+    transform: translateY(-50%);  
 }
 
 /* Animation */
@@ -169,7 +169,7 @@ li a {
              blinkTextCursor 1000ms steps(22) infinite normal;
 } */
 
-@keyframes typewriter{
+@keyframes typing{
   from{width: 0;}
   to{width: 100%;}
 }
