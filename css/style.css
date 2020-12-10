@@ -148,7 +148,7 @@ li a {
 .line-1{
     position: relative;
     top: 50%;  
-    width: 24em;
+    width: 100%;
     margin: 0 auto;
     border-right: 2px solid #black;
     font-size: 150%;
@@ -170,8 +170,8 @@ li a {
 } */
 
 @keyframes typewriter{
-  from{width: 0;}
-  to{width: 100%;}
+  from{width: 0}
+  to{width: 100%}
 }
 
 @keyframes blinkTextCursor{
