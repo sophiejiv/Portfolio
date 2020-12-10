@@ -155,7 +155,7 @@ li a {
     text-align: center;
     white-space: nowrap;
     overflow: hidden;
-    transform: translateY(-50%);  
+    transform: translateY(-50%);    
 }
 
 /* Animation */
@@ -286,6 +286,7 @@ li a {
   background-color:white;
   color: navy;
   transform: rotateY(180deg);
+  font: normal;
 }
 
 
