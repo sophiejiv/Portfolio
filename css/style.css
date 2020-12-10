@@ -148,7 +148,7 @@ li a {
 .line-1{
     position: relative;
     top: 50%;  
-    width: 100%;
+    width: 24em;
     margin: 0 auto;
     border-right: 2px solid #black;
     font-size: 150%;
