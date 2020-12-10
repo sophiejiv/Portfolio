@@ -491,7 +491,7 @@ input[type=submit]:hover {
 }
 
 /* Ipad */
-@media all and (min-width:1366px){
+@media all and (min-width:1024px){
   .nav ul{
     list-style-type: none;
     margin: 0;
